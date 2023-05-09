@@ -1,8 +1,9 @@
 package main
 
 import (
-	"github.com/tum-dev/calendar-proxy/internal"
 	"log"
+
+	"github.com/tum-dev/calendar-proxy/internal"
 )
 
 func main() {
